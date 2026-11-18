@@ -1,0 +1,35 @@
+# Segredos & Ambiente
+.env
+.env.*
+*.key
+*.pem
+.token
+
+# Binários, ROMs, ISOs e dumps de jogos (Proibido subir)
+*.iso
+*.bin
+*.cue
+*.elf
+*.rom
+*.gcm
+*.cso
+*.chd
+SCUS_*
+SLUS_*
+SLES_*
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Cache, logs e build local
+.memory/
+node_modules/
+__pycache__/
+.venv/
+build/
+dist/
+*.log
+*.db
+Thumbs.db
+.DS_Store
